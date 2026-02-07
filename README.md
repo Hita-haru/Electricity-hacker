@@ -8,3 +8,9 @@ Using this device allows you to project ions, enabling actions such as turning o
 # Screenshots
 ## Schematics
 ![Schematics](./screenshots/schematics.png)
+
+## Estimates
+Amazon  
+![Amazon Estimate](./screenshots/amazon-estimate.png)  
+Aliexpress  
+![Aliexpress Estimate](./screenshots/aliexpress-estimate.png)  
