@@ -15,3 +15,8 @@ Amazon
 ![Amazon Estimate](./screenshots/amazon-estimate.png)  
 Aliexpress  
 ![Aliexpress Estimate](./screenshots/aliexpress-estimate.png)  
+
+## BOM
+|Item                   |Quantity|
++-----------------------+--------+
+|Copper Plate           |1       |
