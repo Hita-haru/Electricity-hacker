@@ -20,3 +20,14 @@ Aliexpress
 |Item                   |Quantity|
 |-----------------------|--------|
 |Copper Plate           |1       |
+|Register 1MOhm         |1       |
+|006P Battery Snap      |1       |
+|Wire                   |1       |
+|Pilot lamp             |1       |
+|Push Switch(Momentary) |1       |
+|DC-DC Converter        |1       |
+|High voltage generator |1       |
+|Heat shrink tube       |Many    |
+|Key lock switch        |1       |
+|Anti-static wristband  |1       |
+|Plastic case           |2       |
